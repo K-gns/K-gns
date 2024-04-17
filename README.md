@@ -1,4 +1,8 @@
-### Hi there 👋
+console.log(`Hello World! 👋`)
+
+Hi there! I'm a beginner frontend-developer! My goal is to deepen my knowledge in Web-development, especially ./JSFrameworks/React. I like to create useful apps that solve real-world problems (or at least try to). 
+
+You can reach me on telegram [@Knlrt](https://t.me/Knlrt)
 
 <!--
 **K-gns/K-gns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
