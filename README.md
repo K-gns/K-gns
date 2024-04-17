@@ -1,8 +1,8 @@
-console.log(`Hello World! 👋`)
+<h1>console.log(`Hello World! 👋`)</h1>
 
-Hi there! I'm a beginner frontend-developer! My goal is to deepen my knowledge in Web-development, especially ./JSFrameworks/React. I like to create useful apps that solve real-world problems (or at least try to). 
+<p style="font-size: 24px; font-family: Arial;" >Hi there! I'm a beginner frontend-developer! My goal is to deepen my knowledge in <b>Web-development<b>, especially <code style="font-family: Courier New;">./JSFrameworks/React</code>. I like to create useful apps that solve real-world problems (or at least try to).</p>
 
-You can reach me on telegram [@Knlrt](https://t.me/Knlrt)
+<p>You can reach me on telegram [@Knlrt](https://t.me/Knlrt)</p>
 
 <!--
 **K-gns/K-gns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
