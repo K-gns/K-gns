@@ -1,6 +1,6 @@
 <h1>console.log(`Hello World! 👋`)</h1>
 
-<p style="font-size: 24px; font-family: Arial;" >Hi there! I'm a <b>frontend-developer</b>! My goal is to to always advance my knowledge in <b>Web-development</b>, especially <code style="font-family: Courier New;">./JSFrameworks/React</code>. I like to create useful apps that solve user's real problems.</p>
+<p style="font-size: 24px; font-family: Arial;" >Hi there! I'm a <b>frontend-developer</b>! My goal is to to always advance my knowledge in <b>Web-development</b>, especially <code style="font-family: Courier New;">./JSFrameworks/React</code> and <code style="font-family: Courier New;">./ReactFrameworks/Next</code>. I like to create useful apps that solve user's real problems.</p>
 
 <p>You can reach me on Telegram  <b><a href="https://t.me/Knlrt" style="text-decoration: none;">@Knlrt</a></b></p>
 
